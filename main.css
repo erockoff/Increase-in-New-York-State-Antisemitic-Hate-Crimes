@@ -1,0 +1,64 @@
+body {
+	background-color: white;
+	margin: 0px;
+	color: black;
+}
+
+.article {
+	padding-top: 10px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 900px;
+	font-family: georgia, serif;
+}
+
+.hed-dek {
+	font-family: georgia, serif;
+	margin: 0px;
+	line-height: 40px;
+	font-size: 30;
+	padding: 0px;
+}
+
+h1 {
+	margin: 0px;
+	color: darkblue;
+}
+
+h2 {
+	font-weight: lighter;
+	font-size: 24px;
+	margin: 0px;
+	padding: 0px;
+}
+
+h3 {
+	font-family: roboto, sans-serif;
+	font-size: 18px;
+	font-weight: lighter;
+	margin: 0px;
+}
+
+h4 {
+	font-size: 15px;
+	font-family: roboto,sans-serif;
+	margin: 0px;
+	font-weight: lighter;
+	color: darkblue;
+}
+
+.story-body {
+	font-size: 20px;
+	line-height: 30px;
+}
+
+
+
+
+
+
